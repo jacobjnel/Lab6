@@ -16,6 +16,8 @@ def encode_pass(password):
     return result
 
 
+
+
 while True:
 
     print("Menu")
